@@ -7,6 +7,10 @@
 
 **Code Purpose:**
 
+Quick Start Guide:
+
+Video Tutorial:
+
 **Software:** Compiled on Matlab R2022a
 
 **Disclaimer:** The algorithm is based on TS/ISO15066 and can be used to estimate and simulate the speed and separation monitoring behaviour. Please only use this script in a research context and consult a certified integrator to implement speed and separation monitoring in the industry. 
