@@ -1,4 +1,5 @@
 # Speed And Separation Monitoring Algorithm Simulation
+![Github](https://user-images.githubusercontent.com/102663526/203436526-38d3060c-2118-4cb6-a193-d23d8e8548f8.png)
 
 **Author:** Milan Amighi VUB BruBotics, ...add others... Constantin Scholz IMEC & VUB BruBotics
 
