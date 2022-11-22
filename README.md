@@ -7,9 +7,9 @@
 
 **Code Purpose:**
 
-Quick Start Guide:
+**Quick Start Guide:**
 
-Video Tutorial:
+**Video Tutorial:**
 
 **Software:** Compiled on Matlab R2022a
 
