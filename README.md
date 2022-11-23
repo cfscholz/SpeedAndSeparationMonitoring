@@ -5,7 +5,7 @@
 
 **Email:** constantin.florian.scholz@vub.be
 
-**Code Purpose:**
+**Code Purpose:** The document 
 
 **Quick Start Guide:**
 
