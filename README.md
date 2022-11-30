@@ -3,9 +3,7 @@
 
 **Author:** Milan Amighi, Nima Roshandel, Sebastien Menet, Aariane Shhaitly, Constantin Scholz, Bram Vanderborght
 
-**Affiliations:** IMEC & Vrije Universiteit Brussel BruBotics
-
-**Email:** constantin.scholz@imec.be, constantin.florian.scholz@vub.be
+**Email:** constantin.florian.scholz@vub.be, constantin.scholz@imec.be
 
 **Code Purpose:** The code developed allows readers to understand and learn how the speed and separation monitoring algorithm works and how the various variables affect the distances where the robot is slowing down and stopping to prevent any collision. To ease the understanding, we are using constant velocities.
 
