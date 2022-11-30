@@ -13,7 +13,7 @@
 3. Open the live script SSM_Simulation.mlx in matlab.
 4. Set the variables explained in the script and then run the script by pressing the green button. Also watch the video tutorial below for better understanding. 
 
-**Video Tutorial:** 
+**Video Tutorial:** https://youtu.be/4QspuZQLBRk
 
 **Software:** Compiled on Matlab R2022a
 
