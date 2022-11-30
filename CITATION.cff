@@ -1,0 +1,44 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Speed And Separation Monitoring Algorithm
+  Simulation
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Milan
+    family-names: Amighi
+    affiliation: Vrije Universiteit Brussel
+  - given-names: Nima
+    family-names: Roshandel
+    affiliation: Vrije Universiteit Brussel
+    orcid: 'https://orcid.org/0000-0003-0180-4580'
+  - given-names: Sebastien
+    family-names: Menet
+    orcid: 'https://orcid.org/0000-0002-9474-7935'
+    affiliation: Vrije Universiteit Brussel
+  - given-names: Mariane
+    family-names: Shhaitly
+    affiliation: Vrije Universiteit Brussel
+  - given-names: 'Constantin '
+    family-names: Scholz
+    email: constantin.florian.scholz@vub.be
+    orcid: 'https://orcid.org/0000-0003-1510-8236'
+  - given-names: Bram
+    family-names: Vanderborght
+    orcid: 'https://orcid.org/0000-0003-4881-9341'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7383854
+repository-code: >-
+  https://github.com/cfscholz/SpeedAndSeparationMonitoring
+keywords:
+  - Speed And Separation Monitoring
+  - Safety
+  - Robot
+  - HRC
+license: MIT
