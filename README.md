@@ -3,7 +3,7 @@
 
 [![DOI](https://zenodo.org/badge/569459286.svg)](https://zenodo.org/badge/latestdoi/569459286)
 
-**Author:** Milan Amighi, Nima Roshandel, Sebastien Menet, Aariane Shhaitly, Constantin Scholz, Bram Vanderborght
+**Author:** Milan Amighi, Nima Roshandel, Sebastien Menet, Mariane Shhaitly, Constantin Scholz, Bram Vanderborght
 
 **Email:** constantin.florian.scholz@vub.be, constantin.scholz@imec.be
 
